@@ -1,0 +1,18 @@
+{
+    "name": "teclaelvis/myinit",
+    "description": "Demo to show sums",
+    "require": {
+        "php": "^5.6"
+    },
+    "license": "free",
+    "authors": [
+        {
+            "name": "Elvis Reyes",
+            "email": "teclaelvis01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "psr-4": {
+        "Teclaelvis\\Myinit": "src/"
+    }
+}
