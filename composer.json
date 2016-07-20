@@ -2,7 +2,8 @@
     "name": "teclaelvis/myinit",
     "description": "Demo to show sums",
     "require": {
-        "php": "^5.6"
+        "php": "^5.6",
+        "laravel/framework": "~5.2"
     },
     "license": "free",
     "authors": [
