@@ -13,7 +13,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "psr-4": {
-        "Teclaelvis\\Myinit\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "Teclaelvis\\Myinit\\": "src/"
+        }
     }
 }
